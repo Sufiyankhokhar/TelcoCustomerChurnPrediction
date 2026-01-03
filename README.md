@@ -43,7 +43,14 @@ Random Forest Classifier
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sufiyankhokhar/Telco-Customer-Churn-Prediction.git
-
+```
 2. Install required libraries: pip install -r requirements.txt
 
 3. Run the Streamlit app: streamlit run app.py
+
+## Dataset
+The dataset used in this project is publicly available on Kaggle:
+- 🔗 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
+
