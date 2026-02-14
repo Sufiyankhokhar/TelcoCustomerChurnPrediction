@@ -42,7 +42,7 @@ Random Forest Classifier
 # How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sufiyankhokhar/Telco-Customer-Churn-Prediction.git
+git clone https://github.com/Sufiyankhokhar/TelcoCustomerChurnPrediction.git
 ```
 2. Install required libraries: pip install -r requirements.txt
 
